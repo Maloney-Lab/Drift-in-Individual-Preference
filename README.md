@@ -13,7 +13,7 @@ Raw Circling Data | This folder contains the .mat files for all of the centroid 
 `MatureAge_Run3` |	Data from phase sweep (log space) used for mature age analysis. See `matureage.ipynb`
 
 
-The following scripts and notebooks (MATLAB 2023b, Python 3.1) are available on [github](https://github.com/Maloney-Lab/Drift-in-Individual-Preference). 
+The following scripts and notebooks (MATLAB 2023b, Python 3.10) are available on [github](https://github.com/Maloney-Lab/Drift-in-Individual-Preference). 
 
 **Scripts**	| **This folder contains the scripts used to analyze the data and run simulations**
 ---|----
